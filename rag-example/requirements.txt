@@ -1,0 +1,7 @@
+langchain
+langchain-community 
+langchainhub 
+gpt4all 
+langchain-chroma 
+beautifulsoup4
+sentence_transformers
